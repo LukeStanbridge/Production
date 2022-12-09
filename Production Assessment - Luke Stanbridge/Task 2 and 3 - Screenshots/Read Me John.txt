@@ -1,0 +1,11 @@
+In regards to a changelog we didn't have a documented list of every change we made.
+We would assess all the feedback we recievced or things we needed to change and make new tasks
+on the Trello and assign it to the person who was going to complete the task.
+All changes were agreed upon before being uploaded as a Trello task.
+All tasks are logged in the "Done" section of our trello and pushed up to Source Tree.
+The screenshots show a brief glimpse of these as evidence.
+
+We created feedback forms for people to fill out and logged all responses on google docs.
+Took screenshots of these forms and responses as evidence.
+
+Bug reports were logged in bug section of Trello as you can see in the screenshot.
